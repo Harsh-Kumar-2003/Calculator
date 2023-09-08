@@ -25,6 +25,8 @@ body{
     font-size: 3rem;
     color: white;
 }
+.item:hover{
+    transform:scale(0.95);
 .scr{
     grid-column: span 4;
 }
